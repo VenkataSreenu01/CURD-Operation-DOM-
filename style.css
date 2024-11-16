@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 90vh;
+    background-color: rgb(243, 240, 247);
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 300px;
+    height: 400px;
+    color:white;
+    background-color: aqua;
+    
+}
+span{
+   width: 200px;
+   height: 200px;
+   background-color: blue;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
