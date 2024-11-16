@@ -60,4 +60,5 @@ form.addEventListener("submit", (e) => {
 task_delete.addEventListener("click",()=>{
     tasks.removeChild(task)
 })
-});
+}); 
+
